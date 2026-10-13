@@ -124,7 +124,9 @@ function App() {
       {/* <Counter/> */}
       {/* <Getdata/> */}
       {/* <Theme/> */}
-      <Assesment/>
+      {/* <Assesment/> */}
+
+      {/*this tis to test git hub push and pull */}
      </>
     
   )

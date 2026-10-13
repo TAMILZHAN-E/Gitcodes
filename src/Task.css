@@ -1,0 +1,36 @@
+/* body{
+    background-color: #000000c9;
+} */
+.banner{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 20px;
+    background-color: rgb(226 249 255);
+}
+.but{
+    cursor: pointer;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 30%;
+    padding-right: 30%;
+     border-radius: 10px;
+     background-color: rgb(33, 155, 216);
+     color: aliceblue;
+     font-size: 20px;
+     font-family: sans-serif;
+}
+.cancel{
+    font-family: sans-serif;
+     cursor: pointer;
+     margin-top: 2%;
+     color: rgb(0, 6, 11);
+     font-size: 20px;
+     margin-left: 67%;
+     position: absolute;
+}
+.img{
+    width: 80%;
+}

@@ -1,0 +1,21 @@
+button{
+    background-color:color-mix(in srgb,rgb(224, 214, 216) 40%, skyblue 60%);
+    width: 10%;
+    height:5vh;
+    border-radius: 7px;
+    border:1px solid black
+}
+.in{
+    width:20%;
+    height:5vh;
+    border-radius: 7px;
+    border: none;
+    
+}
+
+h2{
+    color: white;
+}
+h4{
+    color: white;
+}

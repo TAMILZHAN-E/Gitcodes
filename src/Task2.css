@@ -1,0 +1,12 @@
+button{
+    background-color:color-mix(in srgb,rgb(224, 214, 216) 40%, skyblue 60%);
+    width: 10%;
+    height:5vh;
+    border-radius: 7px;
+    border:1px solid black
+}
+
+
+body{
+    background: linear-gradient(70deg,#91bce7,#f16fcc);
+}
